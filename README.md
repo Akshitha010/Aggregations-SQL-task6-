@@ -1,0 +1,1 @@
+# Aggregations-SQL-task6-
