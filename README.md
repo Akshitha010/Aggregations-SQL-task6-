@@ -4,7 +4,7 @@ This project is part of the Data Analyst Internship and focuses on analyzing mon
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset consists of 49 transactions from an e-commerce platform. Each row contains:
 
@@ -19,7 +19,7 @@ The dataset consists of 49 transactions from an e-commerce platform. Each row co
 
 ---
 
-## 🏗️ Database Setup
+##  Database Setup
 
 ### Step 1: Create the Table
 
@@ -47,7 +47,7 @@ SOURCE bulk_insert_sales_data.sql;
 
 ---
 
-## 🔍 Analysis Queries
+## Analysis Queries
 
 ### 1. Monthly Revenue and Transaction Volume
 
@@ -92,9 +92,7 @@ LIMIT 3;
 
 ---
 
-## 📌 Submission
-
-Includes:
+## 📌 This Repository includes
 
 * `sales_data.csv` (raw data)
 * `bulk_insert_sales_data.sql` (insert script)
@@ -102,5 +100,3 @@ Includes:
 * `README.md` (this file)
 
 ---
-
-Let me know if you want a PowerPoint version or detailed explanation of each section.
